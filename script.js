@@ -60,3 +60,7 @@
   
  });
  
+/*
+Information to use the Bible API
+https://docs.api.bible/docs/setup-an-account  
+*/
