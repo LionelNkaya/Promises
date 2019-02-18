@@ -1,7 +1,7 @@
-# [Promises](https://lionl-n.github.io/RandomQuoteMachine/) #
+# [Promises](https://github.com/LionelNkaya/Promises) #
 
-This is a Random Quote Machine I worked on as part of a project for [Free Code Camp](https://www.freecodecamp.org).
-Instead of quotes, I decided to generate promises from the Bible.
+The goal of this project is to take our previous project [Random Quote Machine](https://github.com/LionelNkaya/RandomQuoteMachine) and turn it into a [Progressive Web App](https://en.wikipedia.org/wiki/Progressive_web_applications).
+Work still in progress....
 
 Enjoy! and God bless.
 
